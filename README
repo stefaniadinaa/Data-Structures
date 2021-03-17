@@ -1,0 +1,8 @@
+Implementare folosind liste simplu inlantuite.
+Operatiile au fost realizate folosind regulile de creare, adaugare, stergere, 
+listare a listelor simplu inlantuite. Avem la dispozitie separarea Directoarelor 
+si fisierelor si accesarea acestora cu ajutor pointerilor *next. 
+Astfel se ajunge/afiseaza/parcurge recursiv intreaga ierarhie.
+Cea mai dificila parte: realizarea functiei 'cd' deoarece mi-am dat seama tarziu ca
+nu schimbam si directorul parinte dupa crearea unui fisier/director. 
+Timp de lucru echivalentul a una/doua saptamani, 2h/pe zi. 
